@@ -1,0 +1,1 @@
+"""Write program to print the following series which is shown in Given Examples."""
