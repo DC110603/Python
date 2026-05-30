@@ -1,0 +1,2 @@
+This line is written using a custom context manager.
+Second line added inside with block.
