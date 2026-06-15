@@ -1,0 +1,1 @@
+"""Find second largest number from 2D-array."""

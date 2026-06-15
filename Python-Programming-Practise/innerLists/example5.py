@@ -1,0 +1,1 @@
+"""Find average of all odd numbers from 2D array."""
